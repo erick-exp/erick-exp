@@ -1,10 +1,10 @@
 ### Hi there 👋
 
-🔭 I’m currently working by myself on personal coding projects to reinforce my skills.
-🌱 I’m currently learning Analysis and Systems Development at Uninter College, diving into diverse programming languages and software development methodologies.
-👯 I’m looking to collaborate on Open-source projects related to software development tools and innovative tech solutions.
-🤔 I’m looking for help with exploring advanced algorithms and refining my problem-solving techniques.
-💬 Ask me about my experiences in coding, software development concepts, or anything related to tech!
+🎨 I'm currently immersed in personal design projects to strengthen my skills as a Design Graphics Technology student at UNINTER.
+📘 I'm learning Design and Graphics Technology at UNINTER, exploring various design tools and methodologies to enhance my expertise.
+🤝 I'm eager to contribute to open-source projects focusing on design tools and cutting-edge solutions within the design and graphics tech realm.
+🧐 Seeking guidance in delving into advanced design techniques and refining my problem-solving skills.
+💬 Feel free to ask me about my design experiences, design concepts, or anything related to the creative tech field!
 📫 How to reach me: instagram.com/erick.exp
 😄 Pronouns: HE
-⚡ Fun fact: I can spend hours debugging code while listening to my favorite music playlist!
+⚡ Fun fact: I have a knack for infusing unexpected elements into my designs, drawing inspiration from unconventional sources like nature, vintage art, and even classic literature.
